@@ -18,7 +18,7 @@
 ## 🧪 Instalação
 
 ```bash
-git clone https://github.com/seuusuario/redtux.git
+git clone https://github.com/seuusuario/redtux-1.2.git
 cd redtux
 pip install -r requirements.txt  # se desejar automatizar dependências
 ```
