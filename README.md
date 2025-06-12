@@ -1,6 +1,6 @@
-# 🔴 RedTux 2.0
+# 🔴 RedTux 1.2
 
-**RedTux 2.0** é uma ferramenta ofensiva de linha de comando para pentesters e entusiastas de segurança ofensiva. Ela integra diversas funções úteis para reconhecimento, exploração e pós-exploração em ambientes de rede e sistemas.
+**Atualização RedTux 1.2** é uma ferramenta ofensiva de linha de comando para pentesters e entusiastas de segurança ofensiva. Ela integra diversas funções úteis para reconhecimento, exploração e pós-exploração em ambientes de rede e sistemas.
 
 ---
 
