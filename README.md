@@ -64,6 +64,6 @@ Este software é fornecido apenas para fins educacionais e deve ser usado **excl
 
 ---
 
-## 📄 Licença
 
-MIT License
+
+
